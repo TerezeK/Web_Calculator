@@ -52,8 +52,8 @@ body {
 }
 
 .button:hover{
-    color: #3498db;
-    background-color: coral;   
+    color: rgb(255, 197, 224);
+    background-color: rgb(141, 21, 87);   
 }
 
 .container .buttons .zero {
