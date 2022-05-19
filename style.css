@@ -1,0 +1,47 @@
+h1{
+    background-color: rgb(141, 21, 87);
+    color: rgb(255, 210, 221);
+    font-size: 40px;
+    padding: 18px;
+};
+
+body{
+    padding: 25px;
+    background-color: rgb(255, 220, 197);
+    color: black;
+    font-size: 25px;
+  }
+
+.dark-mode{
+    background-color: rgb(2, 6, 20);
+    color: rgb(219, 226, 226);
+  }
+
+input[type=text] {
+  width: 100px;
+  padding: 5px 50px;
+  margin: 3px 0px;
+  box-sizing: content-box;
+  border-radius: 1%;
+  border-color:rgb(189, 57, 138)
+}
+
+input[id="result"] {
+  background-color:rgb(255, 197, 224);
+  width: 100px;
+  padding: 5px 50px;
+  margin: 3px 0px;
+  box-sizing: content-box;
+  border-radius: 1%;
+  border-color:rgb(189, 57, 138)
+}
+
+input[type=button] {
+  background-color:rgb(255, 197, 224);
+  width: 100px;
+  padding: 5px 50px;
+  margin: 3px 0px;
+  box-sizing: border-box;
+  border-radius: 1%;
+  border-color:rgb(189, 57, 138)
+}
