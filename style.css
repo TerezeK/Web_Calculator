@@ -11,7 +11,7 @@ body {
     height: 550px;
     border-radius: .5em;
     box-shadow: -3px -3px 7px #ffffff73,
-                2px 2px 5px rgba(94, 104, 121, 0.288);
+                2px 2px 5px rgb(141, 21, 87);
     margin: 0 auto;
     padding: 32px 16px;
     display: flex;
